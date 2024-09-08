@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" style="border-radius: 15px; width: 100px; height: auto;">
+<img align="left" src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" style="border-radius: 0px; width: 150px; height: auto;">
 
 <div style="border: 2px solid #ddd; border-radius: 15px; padding: 15px; margin-left: 120px; max-width: 200px; background-color: #f9f9f9;">
   <samp>
