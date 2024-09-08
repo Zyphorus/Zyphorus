@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/ashtrath.png" style="border-radius: 8px;">
+<img align="left" src="https://github.com/ashtrath.png" style="border-radius: 15px;">
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-left: 150px; max-width: 300px;">
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 10px; margin-left: 150px; max-width: 150px;">
   <samp>
     <b>OS</b>         • Arch Linux x86_64<br>
     <b>Kernel</b>     • 6.4.10-arch1-1<br>
