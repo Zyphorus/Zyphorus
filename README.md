@@ -1,10 +1,7 @@
-<h1 align="center">zxc.untalanted</h1>
-
 <table>
   <tr>
     <td>
       <img src="https://via.placeholder.com/150" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
-    </td>
     <td>
       <samp>
         <b>OS</b>         • Arch Linux x86_64<br>
