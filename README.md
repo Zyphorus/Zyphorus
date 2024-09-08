@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <tr align="center">
-      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" alt="Profile Photo" width="350" height="500">
+      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" alt="Profile Photo" width="250" height="250">
     </tr>
     <tr align="center">
       <samp>
