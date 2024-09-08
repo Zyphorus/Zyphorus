@@ -1,5 +1,9 @@
-<tr
-      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" alt="Profile Photo" width="150" height="150">
+    </td>
+    <td align="center">
       <samp>
         <b>OS</b>         • Arch Linux x86_64<br>
         <b>Kernel</b>     • 6.4.10-arch1-1<br>
@@ -19,22 +23,22 @@
 
 ---
 
-## About Me
-I'm passionate about creating personalized configurations and themes for Linux environments. I enjoy designing modular setups and exploring new ways to improve my workflow with tools like bspwm, sxhkd, and Hyprland. My projects often revolve around macOS-inspired designs, custom panels, and notification systems.
+## 自己紹介
+私はLinux環境の個人設定とテーマの作成に情熱を持っています。bspwm、sxhkd、Hyprlandなどのツールを使って、モジュラーセットアップをデザインし、ワークフローを改善する新しい方法を探求するのが好きです。私のプロジェクトは、macOS風のデザインやカスタムパネル、通知システムに関連するものが多いです。
 
-## Current Projects
-- **Custom SDDM Theme:** A macOS-style login screen for Arch Linux.
-- **Volume Notifications:** bspwm notifications mimicking macOS sound controls with SVG icons.
-- **Rofi Customizations:** Creating a centered Rofi window with macOS-like icons and fonts.
+## 現在のプロジェクト
+- **カスタムSDDMテーマ:** Arch Linux用のmacOSスタイルのログイン画面。
+- **音量通知:** SVGアイコンを使用したmacOSのサウンドコントロールに似たbspwm通知。
+- **Rofiのカスタマイズ:** macOSのようなアイコンとフォントを持つ中央配置のRofiウィンドウの作成。
 
-## Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Tools:** bspwm, sxhkd, Kitty, Rofi
-- **Design:** UI/UX customization, theme development
+## スキル
+- **言語:** HTML, CSS, JavaScript
+- **ツール:** bspwm, sxhkd, Kitty, Rofi
+- **デザイン:** UI/UXカスタマイズ、テーマ開発
 
-## Contact
-Feel free to reach out through my GitHub profile for collaboration or if you have any interesting projects!
+## 連絡先
+コラボレーションや興味深いプロジェクトがあれば、GitHubのプロフィールを通じてお気軽にご連絡ください！
 
 ---
 
-<sub>Last updated: September 2024</sub>
+<sub>最終更新日: 2024年9月</sub>
