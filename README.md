@@ -1,5 +1,5 @@
-<table align="center">
-  <tr>
+
+ <tr>
       <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png">
       <samp>
         <b>OS</b>         • Arch Linux x86_64<br>
