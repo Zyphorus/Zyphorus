@@ -6,7 +6,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td
         <samp>
           <b>OS</b>         • Arch Linux x86_64<br>
           <b>Kernel</b>     • 6.4.10-arch1-1<br>
