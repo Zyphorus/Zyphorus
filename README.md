@@ -1,6 +1,4 @@
-
-sh
-~/zyphorus: fetch.sh.                                 <img align="left" src="https://github.com/ashtrath.png">
+                                                               <img align="left" src="https://github.com/ashtrath.png">
 
 <samp>
   <b>OS</b>         • Arch Linux x86_64<br>
