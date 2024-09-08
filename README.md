@@ -1,6 +1,5 @@
 
-
-```sh
+sh
 ~/zyphorus: fetch.sh.                                 <img align="left" src="https://github.com/ashtrath.png">
 
 <samp>
