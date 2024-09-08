@@ -1,7 +1,6 @@
 <table align="center">
   <tr>
-      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" alt="Profile Photo" width="150" height="150">
-    <tr align="center">
+      <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png">
       <samp>
         <b>OS</b>         • Arch Linux x86_64<br>
         <b>Kernel</b>     • 6.4.10-arch1-1<br>
