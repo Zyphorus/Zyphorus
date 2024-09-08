@@ -4,7 +4,6 @@
   <tr>
       <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png">
 <table align="center">
-      <samp>
         <b>OS</b>         • Arch Linux x86_64<br>
         <b>Kernel</b>     • 6.4.10-arch1-1<br>
         <b>Uptime</b>     • Japan Tokyo (UTC+9)<br>
