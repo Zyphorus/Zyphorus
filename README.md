@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; flex-wrap: wrap; border: 2px solid #ddd; border-radius: 15px; padding: 15px; max-width: 400px; background-color: #f9f9f9; margin: auto;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; border: 2px solid #ddd; border-radius: 15px; padding: 15px; max-width: auto; background-color: #f9f9f9; margin: auto;">
   <img src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" style="border-radius: 15px; width: 120px; height: auto; margin-right: 15px;">
 
   <div style="flex: 1;">
