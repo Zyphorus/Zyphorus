@@ -1,6 +1,6 @@
 <h1 align="center">zxc.untalanted</h1>
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- Первая витрина -->
   <table>
     <tr>
