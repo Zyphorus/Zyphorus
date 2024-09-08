@@ -14,4 +14,3 @@
     <b>GPU</b>        • AMD<br>
     <b>Memory</b>     • 4GB<br>
   </samp>
-</div>
