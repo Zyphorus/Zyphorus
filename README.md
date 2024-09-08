@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/ashtrath.png" style="border-radius: 15px;">
+<img align="left" src="https://github.com/Zyphorus/Zyphorus/blob/main/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%A1%A9.png" style="border-radius: 15px; width: 100px; height: auto;">
 
-<div style="border: 1px solid #ddd; border-radius: 15px; padding: 10px; margin-left: 150px; max-width: 150px;">
+<div style="border: 2px solid #ddd; border-radius: 15px; padding: 15px; margin-left: 120px; max-width: 200px; background-color: #f9f9f9;">
   <samp>
     <b>OS</b>         • Arch Linux x86_64<br>
     <b>Kernel</b>     • 6.4.10-arch1-1<br>
@@ -14,3 +14,4 @@
     <b>GPU</b>        • AMD<br>
     <b>Memory</b>     • 4GB<br>
   </samp>
+</div>
