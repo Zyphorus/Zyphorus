@@ -1,5 +1,3 @@
-<h1 align="center">zxc.untalanted</h1>
-
 <table align="center">
   <tr>
     <td align="center">
